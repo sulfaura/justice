@@ -90,12 +90,6 @@ qu'ils repensent, à leurs orgies débridées, à leurs abus sur mineurs,
 à leurs mensonges juste pour empêcher deux personnes de se croiser,
 à leurs manipulations juste pour de l'argent.
 
-- je_suis_06
-
-Je ne vole rien, et je n'ai jamais rien volé.
-Surtout pas la copine d'un ami.
-A bon entendeur !
-
 - je_suis_07
 
 Je n'ai pas de problème psychiatrique. Juste qu'il est très choquant et difficile d'encaisser 
@@ -426,4 +420,10 @@ Je mettais dit à titre personnel, et donc devant personne,
 "ça serait bien d'avoir une vue sur la seine.", mais sinon c'est pas le plus important. 
 J'aime beaucoup le nouveau batiment. Je trouve que nous sommes bien installés là où nous nous trouvons.
 Nous avons une vue sur la cour intérieur pas désagréable. L'aménagement est moderne et très sympathique.
+
+- je_suis_43
+
+Je ne vole rien, et je n'ai jamais rien volé.
+Surtout pas la copine d'un ami.
+A bon entendeur !
 
