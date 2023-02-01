@@ -2,7 +2,7 @@
 - atk_naissance_01
 
 12 juillet 1989
-Je viens au monde, fils d'une famille dont au moins l'un des deux parents est juif.
+Je viens au monde, fils de Charles et Marie Lystat. Charles a été élevé dans une famille juive.
 
 - atk_sauve_des_eaux_ou_pas_01
 
