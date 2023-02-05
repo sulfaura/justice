@@ -1,0 +1,14 @@
+
+- def_balade_londonienne_01
+
+Octobre 2014 - Londres
+
+J'assiste à la 23 édition de l'IMR (International Meshing Roundatable) organisée à Londres durant 3 jours.
+Je présente notamment un poster et je fais une présentation sur mon sujet de travail sur CGAL : 
+les triangulations de Delaunay avec points à poids dans un espace périodique, servant pour un algorithme 
+de maillage dans un espace périodique.
+
+L'un des soirs Maël me fait faire une balade dans Londres, pour me présenter des points de vue qui valent le coup.
+Par exemple, une vue de Big Ben et du parlement britannique.
+Cette balade dure un moment, et n'ayant pas de bonnes chaussures, j'ai rapidement les pieds en feu.
+Alors que Maël souhaite me montrer la City, je craque et je lui annonce retourner à mon hôtel.
